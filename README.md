@@ -16,7 +16,7 @@ Next, in SQL (SQL/analysis.sql), I wrote a few basic queries using JOIN, GROUP B
 Finally, I imported the cleaned CSV into Power BI (powerbi_dashboard/olist_dashboard.pbix) and built a one-page dashboard showing revenue, total orders, shipping costs, top categories, daily sales, and delivery status.
 
 ## Dashboard preview
-powerbi_dashboard/dashboard_preview.png
+![Dashboard Preview](powerbi_dashboard/dashboard_preview.png)
 
 ## Main findings
 - Delivered orders generated 13.04M BRL in total revenue across 95,105 unique orders, with an average shipping cost of 19.98 BRL.
